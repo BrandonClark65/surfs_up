@@ -13,10 +13,10 @@ The purpose of this analysis was to organize weather data for the island of Oahu
 - Temperatures are slightly more skewed in December than in June, with a standard deviation of 3.75 compared to 3.26 in June
 
 ### December Summary Statistics
-![December_Temp_Summary](resources/December_Temp_Summary.PNG)
+![December_Temp_Summary](Resources/December_Temp_Summary.PNG)
 
 ### June Summary Statistics
-![June_Temp_Summary](resources/June_Temp_Summary.PNG)
+![June_Temp_Summary](Resources/June_Temp_Summary.PNG)
 
 ## Summary
 Based on the results, it can be determined that the weather in Oahu is ideal for surfing as well as ice cream. The warm weather throughout the year would allow the shop to remain open year-round, where other locations with colder winters may require the shop to close during the winter. The slightly less consistent temperatures, and lower minimum temps in December, may result in lower sales during the winter. 
